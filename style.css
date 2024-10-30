@@ -59,7 +59,6 @@ nav {
     background-color:#fff;
     height:75vh;
     display:flex;
-    flex-wrap:wrap;
     justify-content:center;
     align-items:center;
     box-shadow: 8px 8px 5px rgba(0, 0, 0, 0.2);
